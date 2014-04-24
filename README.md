@@ -1,16 +1,8 @@
 cpsc120-maze
 ============
+#include <iostream>
+using namespace std;
 
-Maze project for CSUF cpsc120
-$ mkdir ~/maze
-$ cd ~/maze
-$ git init
+int main(){
 
-$ touch README
-
-$ git add README
-$ git commit -m 'first commit'
-
-$ git remote add origin https://github.com/username/Hello-World.git
-
-$ git push origin master
+cout << "
